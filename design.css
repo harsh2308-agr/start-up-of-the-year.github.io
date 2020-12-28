@@ -1,0 +1,28 @@
+body,
+html { 
+  background: url(startup.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+button{
+	text-decoration-color: black;
+}
+h1{
+	font-size: 3rem;
+}
+.btn{
+	border-radius: 300px;
+	border-spacing: 10px;
+}
+.btn:hover{
+	background-color: #FFFFAA
+	border-spacing:4px;
+}
+hr {
+	border-color: #2D882D;
+	border-width: 10px;
+}
+
+
